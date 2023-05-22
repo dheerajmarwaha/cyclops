@@ -1,3 +1,16 @@
+# Visualization Graph using React Plotly JS
+## Reference
+Data Science Visualization Graph using React Plotly JS - https://www.youtube.com/watch?v=7D3kXabIUoM
+Create Charts in React JS Project - https://www.youtube.com/watch?v=TqMSUmkMjkE (React + D3)
+* npmjs.com/package/recharts
+* https://recharts.org
+
+## important commands
+npx create-react-app
+npm install react-plotly.js plotly.js
+npm start
+npm install recharts
+npm install chart.js react-chartjs-2.js
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
